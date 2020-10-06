@@ -1,5 +1,13 @@
 # Angular BoilerPlate
 
+Folowings Modules are added in this project
+### Angular Material
+### Bootsrtap
+### NGX-Bootsrtap
+### Jquery
+### Loadash
+### Underscope 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server
